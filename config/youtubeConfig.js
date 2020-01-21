@@ -27,6 +27,7 @@ export const youtubeConfig=
   //練習試合
   531:"5udtjGov7Wc",
   537:"JVtoM7tlq3w",
-  538:"1rGHnGMOPeQ"
+  538:"1rGHnGMOPeQ",
+  539:"GkOt621EFcg"
 
 }
