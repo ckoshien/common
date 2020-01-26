@@ -16,6 +16,7 @@ export const youtubeConfig=
   //秋季関東リーグ
   471:"e_UbjBEcylc",
   472:"D2-AXrXI2CA",
+  479:"-z9aBFWrfAI",
   482:"92ff2siGorM",
   483:"92ff2siGorM",
   484:"OVkmd3tv2WI",
