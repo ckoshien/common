@@ -1,7 +1,9 @@
 export const youtubeConfig=
 {
   //佐倉大会
+  404:'DZda4CqDUDc',
   "405":"KQbhW0XVvnY",
+  406:'zWM3xNNvZKc',
   "414":"F3WWqkGDUrY",
   "416":"K2oSWqVjUcg",
   "420":"AojEV7qeMQc",
