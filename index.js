@@ -1,4 +1,4 @@
 
 export { twMovieConfig } from './config/twMovieConfig';
 export { youtubeConfig } from './config/youtubeConfig';
-export { twitterConfig } from './config/twitterConfig';
+export { team_official_twitter } from './config/twitterConfig';
