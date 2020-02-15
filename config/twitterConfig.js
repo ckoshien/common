@@ -12,5 +12,8 @@ export const team_official_twitter = {
     72: 'kuctc_official',//京大
     73: 'GCTC2019', //学習院
     79: 'KUSScapthrowing',//神大附
-    97: 'AomoriCtC'//青森CtC
+    92: 'YmgcCbC',//山口
+    97: 'AomoriCtC',//青森CtC
+    98: 'gaisetu_cap',//蓋雪
+    99: 'cap_overroad' //蓋道
 }
