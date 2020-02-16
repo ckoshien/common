@@ -15,5 +15,6 @@ export const team_official_twitter = {
     92: 'YmgcCbC',//山口
     97: 'AomoriCtC',//青森CtC
     98: 'gaisetu_cap',//蓋雪
-    99: 'cap_overoad' //蓋道
+    99: 'cap_overoad', //蓋道
+    100: 'kirinemoca' //仙台(切音)
 }
