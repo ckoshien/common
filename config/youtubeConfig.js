@@ -39,6 +39,9 @@ export const youtubeConfig=
   503:"OlfMnSLrnHI",
   504:"OlfMnSLrnHI",
 
+  //有志団体対抗戦
+  648:"_iMrr47Ue64",
+
 
   //練習試合
   531:"5udtjGov7Wc",
@@ -48,6 +51,6 @@ export const youtubeConfig=
   609:"SRBj4Rpm4Rc",
   611:'FHFpU1bOfB8',
   625:'0rM6yGLjM-I',
-  636:'NKZaTg5QqgA'
+  636:'NKZaTg5QqgA',
 
 }
