@@ -38,6 +38,8 @@ export const youtubeConfig=
   502:'R2MhTxU2RdQ',
   503:"OlfMnSLrnHI",
   504:"OlfMnSLrnHI",
+  517:"NapExuibTv8",
+  518:"tBucEWjTJgc",
 
   //有志団体対抗戦
   638:"rLVnBAkN9aY",
