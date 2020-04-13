@@ -44,6 +44,7 @@ export const youtubeConfig=
   //有志団体対抗戦
   638:"rLVnBAkN9aY",
   639:'BCAb9oCvWrU',
+  641:'VGQb2lwMUdU',
   642:"JHmiSPIoLI8",
   648:"_iMrr47Ue64",
   
@@ -58,6 +59,7 @@ export const youtubeConfig=
   611:'FHFpU1bOfB8',
   625:'0rM6yGLjM-I',
   636:'NKZaTg5QqgA',
+  659:'FbZEJlFEmNc'
 
 
 }
