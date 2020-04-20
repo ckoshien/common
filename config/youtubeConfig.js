@@ -23,6 +23,8 @@ export const youtubeConfig=
   591:'-RM73w_eUvE',
   595:'_6O_tmWzS3w',
   596:'WXMZX0ka4ZM',
+  662:'ExjaRFXWl2U',
+  663:'yRKMq6X4bHM',
 
   //秋季関東リーグ
   471:"e_UbjBEcylc",
